@@ -5,8 +5,7 @@
     <ProjectGuid>0dfe8450-dcb0-4817-9573-149ca0bb3a49</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>MikeTools.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <SearchPath>..\..\..\PythonTools</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>MikeTools</Name>

@@ -427,3 +427,6 @@ paket-files/
 /MikeTools/DHI.Mike1D.ResultDataAccess.dll
 /MikeTools/MatlabDfsUtil.2016.dll
 /MikeTools/DHI.Generic.MikeZero.DFS.dll
+/MikeTools/KalibreringRunoffNetworkBaseUserSpecified.PRF
+/MikeTools/TestData/RTCExample.PRF
+/MikeTools/TestData/Test.PRF
